@@ -1,0 +1,17 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.log
+*.sqlite3
+*.db
+*.env
+*.pkl
+*.h5
+*.json
+
+# Ignore virtual environments
+python/.venv/
+.venv/
+env/
+ENV/
