@@ -15,3 +15,9 @@ python/.venv/
 .venv/
 env/
 ENV/
+
+# Rusty stuff:
+
+rust/mediapipe-rs
+rust/TFlite-object-detection
+
